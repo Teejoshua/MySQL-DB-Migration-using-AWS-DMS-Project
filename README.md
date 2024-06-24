@@ -2,7 +2,7 @@
 
 NOTE: This project is in progress, kinldy swtich to `dev` branch & see the progress.
 
-## Business Overview:
+## Project Business Overview:
 
 Today's data has become a critical asset for businesses to make informed decisions and gain a
 competitive edge. However, with the exponential growth of data, managing and storing it
@@ -68,9 +68,6 @@ DMS, RDS, AWS Glue, AWS Timestream, AWS S3, and QuickSight.
 - In the last phase as mini-course to dive deep into the concepts and workings of
 Infrastructure-as-a-Code (IaC) using AWS CDK (Cloud Development Kit).
 
-## Data Description:
-
-- To be announced soon
 
 ## Tech Stack: 
 
